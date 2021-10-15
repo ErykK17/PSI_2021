@@ -8,4 +8,4 @@ for i in lorem_ipsum:
         litera1 += 1
     elif i == nazwisko[3]:
         litera2 += 1
-print ("W tekście jest " + f"{litera1} liter {imie [2]}  oraz {litera2} liter {nazwisko[3]}")
+print ("W tekście jest " + f"{litera1} liter {imie [2]} oraz {litera2} liter {nazwisko[3]}")
